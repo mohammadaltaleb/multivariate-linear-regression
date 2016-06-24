@@ -1,3 +1,7 @@
+% GradientDescent.m
+% Author: Mohammad N Altaleb
+% e-mail: mohammadaltaleb@gmail.com
+
 function [theta, J_history] = GradientDescent(X, y, theta, alpha, iterations)
 
     % preparing variables
