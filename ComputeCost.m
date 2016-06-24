@@ -1,3 +1,7 @@
+% ComputeCost.m
+% Author: Mohammad N Altaleb
+% e-mail: mohammadaltaleb@gmail.com
+
 function J = ComputeCost(X, y, theta)
     % no. of training examples
     m = length(y);
