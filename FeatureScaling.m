@@ -1,3 +1,7 @@
+% FeatureScaling.m
+% Author: Mohammad N Altaleb
+% e-mail: mohammadaltaleb@gmail.com
+
 function [X, mu, sigma] = FeatureScaling(X)
     % calculating the mean and standard devietion
     mu = mean(X);
