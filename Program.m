@@ -1,3 +1,7 @@
+% Program.m
+% Author: Mohammad N Altaleb
+% e-mail: mohammadaltaleb@gmail.com
+
 clear; close all; clc;
 
 % reading the training examples
